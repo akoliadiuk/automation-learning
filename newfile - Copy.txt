@@ -1,3 +1,0 @@
-sample text
-some meaningful changes
-one more commit
